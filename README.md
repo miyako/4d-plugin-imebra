@@ -1,4 +1,16 @@
 4d-plugin-imebra
 ================
 
-Moved from source.4d.com
+##Platform
+
+| carbon | cocoa | win32 | win64 |
+|:------:|:-----:|:---------:|:---------:|
+|🆗|🚫|🆗|🆗|
+
+Commands
+---
+
+```c
+DICOM_GET_DATA
+DICOM_Write_jpeg_file
+```
