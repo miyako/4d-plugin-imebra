@@ -1,6 +1,8 @@
 4d-plugin-imebra
 ================
 
+Tool to read DICOM files.
+
 ##Platform
 
 | carbon | cocoa | win32 | win64 |
