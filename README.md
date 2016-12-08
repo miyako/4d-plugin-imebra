@@ -3,6 +3,12 @@
 
 Tool to read DICOM files.
 
+##Deprecated 
+
+Please use 
+
+* https://github.com/miyako/4d-plugin-imebra-v2
+
 ##Platform
 
 | carbon | cocoa | win32 | win64 |
